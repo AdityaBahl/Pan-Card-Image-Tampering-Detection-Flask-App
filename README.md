@@ -3,7 +3,7 @@
 ## Colab File
 
 For reference or a better understanding step by step(but purely Python Code)
-![IPYNB](https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sharing)
+https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sharing
 
 ## Technologies Used
 
