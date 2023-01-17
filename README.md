@@ -18,13 +18,12 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
 **_Step to run application:_**
 
 1. **Create the copy** of the project.
-2. Open command prompt and change your current path
-   to folder where you can find 'app.py' file.
+2. Open **command prompt** and change your current path to folder where you can find **'app.py'** file.
 3. **Create environment** by command given below-
 
-```
+   ```
    conda create -name <environment name>
-```
+   ```
 
 4. **Activate environment** by command as follows-
    ```
