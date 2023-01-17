@@ -66,9 +66,11 @@ A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a 
 8. **Visualise images** using different functions and display original image with contour
 9. Display tampered image with **contour** and **black and white** images respectively.
 
+It's important to note that the algorithm may vary depending on the specific implementation, and the accuracy and reliability of the app will depend on the quality of the machine learning model used. Additionally, the algorithm will have to be fine-tuned and improved with more data, testing and tweaking of the model.
+
 ## Challenges and Limitations
 
-There are several challenges and limitations that may arise when developing a PAN card Image Tampering Detection Flask App:
+There are several challenges and limitations that may arise when developing a **_PAN card Image Tampering Detection Flask App_**:
 
 1. **_Image quality:_** The app must be able to handle images of varying quality, such as those taken with a smartphone camera or those that have been scanned.
 
