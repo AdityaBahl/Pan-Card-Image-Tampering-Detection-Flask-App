@@ -61,7 +61,7 @@ A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a 
 3. **Change image format** to png(If required).
 4. **Load** the two input images(original and tampered) into imread function of cv2(open cv).
 5. Convert the images to **grayscale**
-6. Compute the **_Structural Similarity Index (SSIM)_** between the two images, ensuring that the difference image is returned.(structural similarity index helps us to determine exactly where in terms of x,y coordinates location, the image differences are. The **_lower_** the SSIM score, the **_lower_** the similarity.)
+6. Compute the **_Structural Similarity Index (SSIM)_** between the two images, ensuring that the difference image is returned. Structural similarity index helps us to determine exactly where in terms of x,y coordinates location, the image differences are. The **_lower_** the SSIM score, the **_lower_** the similarity.
 7. Loop over the **contours**.
 8. **Visualise images** using different functions and display original image with contour
 9. Display tampered image with **contour** and **black and white** images respectively.
