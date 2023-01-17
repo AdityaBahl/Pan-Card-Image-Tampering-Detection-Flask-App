@@ -1,43 +1,30 @@
-# Wordle Game Using Node.js and APIs
-
-![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
+# PanCard Image Tampering Flask App
 
 ## Technologies Used
 
 1. **HTML**
 2. **CSS**
-3. **Vanilla JavaScript**
-4. **Node.js**
-5. **[Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)**
-6. **[Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)**
+3. **JavaScript**
+4. **Python**
+5. **Flask**
 
 ## Getting Started
 
-To start this project please go to **RapidAPI** to sign up for the [APIs](https://bit.ly/rapidapi-hub).
+Step to run application:
 
-### `.env`
-
-Now create a `.env` file in the root of your project with the following:
-
-```
-RAPID_API_KEY={your_rapid_api_key}
-```
-
-To run this project please type the following commands:
-
-### `npm i`
-
-This will install all the necessary dependencies.
-
-### `npm run start:backend`
-
-This will start the backend on [http://localhost:8000](http://localhost:8000).
-
-### `copy the path to your index.html file`
-
-Copy the path to this file and paste it in your browser to see the game and play.
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Step 1: Create the copy of the project.
+2. Step 2: Open command prompt and change your current path
+   to folder where you can find 'app.py' file.
+3. Step 3: Create environment by command given below-
+   conda create -name <environment name>
+4. Step 4: Activate environment by command as follows-
+   conda activate <environment name>
+5. Step 5: Use command below to install required dependencies-
+   python -m pip install -r requirements.txt
+6. Step 6: Run application by command;
+   python app.py
+   You will get url copy it and paste in browser.
+7. Step 7: You have sample_data folder where you can get images to test.
 
 ## Why Wordle?
 
