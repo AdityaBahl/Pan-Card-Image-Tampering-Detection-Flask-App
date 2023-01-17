@@ -13,7 +13,13 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
 4. **Python**
 5. **Flask**
 
+## Presentation
+
+### Before Uploading the Image File
+
 ![image1](https://user-images.githubusercontent.com/90335449/213002624-8a2c29a2-3a85-4dd6-96ba-e5438c4885e0.png)
+
+### After uploading the tampered Image File of a pan card
 
 ![image2](https://user-images.githubusercontent.com/90335449/213002650-f02177f9-7c09-43a3-a840-b4f0e83386f1.png)
 
