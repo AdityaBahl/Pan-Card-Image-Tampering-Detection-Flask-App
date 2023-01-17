@@ -28,7 +28,7 @@ Step to run application:
 
 ## Why PAN card Image Tampering Detection Flask App?
 
-A **_Pancard Image Tampering Detection Flask App_** can be used to detect if a PAN card image has been tampered with. PAN (Permanent Account Number) cards are government-issued identification cards that are used for tax-related purposes in India. Tampering with a PAN card image could be used to commit fraud or other illegal activities, so it's important to be able to detect any tampering that may have occurred. A Flask App can be used to create a user-friendly interface for users to upload and check their PAN card images, making the process of detecting tampering more convenient and accessible.
+A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a PAN card image has been tampered with. PAN (Permanent Account Number) cards are government-issued identification cards that are used for tax-related purposes in India. Tampering with a PAN card image could be used to commit fraud or other illegal activities, so it's important to be able to detect any tampering that may have occurred. A Flask App can be used to create a user-friendly interface for users to upload and check their PAN card images, making the process of detecting tampering more convenient and accessible.
 
 ## Algorithm
 
@@ -40,9 +40,11 @@ A **_Pancard Image Tampering Detection Flask App_** can be used to detect if a P
 
 This is just one possible approach to building a Wordle-like game. There are many other ways to design and implement such a game, and the specific algorithms and techniques used will depend on the desired features and functionality of the game.
 
+##
+
 ## Challenges and Limitations
 
-There are several challenges and limitations that may arise when developing a Pancard Image Tampering Detection Flask App:
+There are several challenges and limitations that may arise when developing a PAN card Image Tampering Detection Flask App:
 
 1. **_Image quality:_** The app must be able to handle images of varying quality, such as those taken with a smartphone camera or those that have been scanned.
 
@@ -70,7 +72,7 @@ Overall, it's important to keep in mind that developing a Pancard Image Tamperin
 
 ## Conclusion
 
-In conclusion, building a Wordle-like game using APIs and Node.js can be a challenging but rewarding project. By using APIs, the game can access and retrieve data from external sources, providing a rich and dynamic gaming experience for players. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, can be used to execute the game's code and handle its server-side logic. Some potential challenges that may arise include integrating with external APIs, managing the game state, ensuring good performance, testing and debugging, and maintaining security. By carefully designing and implementing the game, it is possible to create a fun and engaging Wordle-like game that players will enjoy.
+In conclusion, a Pancard Image Tampering Detection Flask App can be a useful tool for detecting tampered PAN card images and preventing fraud and other illegal activities. However, there are several challenges and limitations that must be considered when developing such an app, including image quality, tamper detection accuracy, false positives and negatives, security, scalability, maintenance, and compliance with privacy laws and regulations. Additionally, the app may be limited by the resources available, such as computing power and storage, and the model may have limited performance and accuracy due to limited data. Despite the challenges and limitations, a Pancard Image Tampering Detection Flask App can help to improve the security and integrity of PAN card images and the government's identification process.
 
 ### MIT Licence
 
