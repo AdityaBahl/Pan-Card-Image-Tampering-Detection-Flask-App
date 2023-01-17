@@ -42,7 +42,7 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
 
 ## Why PAN card Image Tampering Detection Flask App?
 
-A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a PAN card image has been tampered with. PAN (Permanent Account Number) cards are government-issued identification cards that are used for tax-related purposes in India. Tampering with a PAN card image could be used to commit fraud or other illegal activities, so it's important to be able to detect any tampering that may have occurred. A Flask App can be used to create a user-friendly interface for users to upload and check their PAN card images, making the process of detecting tampering more convenient and accessible.
+A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a PAN card image has been tampered with. PAN (**Permanent Account Number**) cards are government-issued identification cards that are used for tax-related purposes in India. Tampering with a PAN card image could be used to commit fraud or other illegal activities, so it's important to be able to detect any tampering that may have occurred. A Flask App can be used to create a user-friendly interface for users to upload and check their PAN card images, making the process of detecting tampering more convenient and accessible.
 
 ## Modules
 
