@@ -1,4 +1,4 @@
-# PanCard Image Tampering Flask App
+# PAN Card Image Tampering Flask App
 
 ## Technologies Used
 
@@ -26,9 +26,9 @@ Step to run application:
    You will get url copy it and paste in browser.
 7. You have sample_data folder where you can get images to test.
 
-## Why Pancard Image Tampering Detection Flask App?
+## Why PAN card Image Tampering Detection Flask App?
 
-**Wordle** is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+A **_Pancard Image Tampering Detection Flask App_** can be used to detect if a PAN card image has been tampered with. PAN (Permanent Account Number) cards are government-issued identification cards that are used for tax-related purposes in India. Tampering with a PAN card image could be used to commit fraud or other illegal activities, so it's important to be able to detect any tampering that may have occurred. A Flask App can be used to create a user-friendly interface for users to upload and check their PAN card images, making the process of detecting tampering more convenient and accessible.
 
 ## Algorithm
 
@@ -42,15 +42,31 @@ This is just one possible approach to building a Wordle-like game. There are man
 
 ## Challenges and Limitations
 
-1. **Integrating with external APIs:** Depending on the APIs used, integrating with them can be a complex task. There may be issues with authentication, rate limiting, or handling unexpected responses.
+There are several challenges and limitations that may arise when developing a Pancard Image Tampering Detection Flask App:
 
-2. **Managing the game state:** As the game progresses, the state of the game will change (e.g., new grids of letters will be displayed, scores will be updated). Care must be taken to ensure that the game state is properly managed and persisted, especially if the game is being played by multiple users concurrently.
+1. **_Image quality:_** The app must be able to handle images of varying quality, such as those taken with a smartphone camera or those that have been scanned.
 
-3. **Ensuring performance:** A slow or unresponsive game can be frustrating for players. Careful optimization of the code and use of appropriate caching techniques can help ensure good performance.
+2. **_Tampering detection:_** The app must be able to accurately detect tampered images, which can be difficult if the tampering is subtle or not easily visible to the naked eye.
 
-4. **Testing and debugging:** As with any software project, testing and debugging are important tasks that must be undertaken to ensure that the game is functioning correctly. This can be especially challenging in a web-based game that involves interactions with external APIs.
+3. **_False positives:_** The app may generate false positives, where it incorrectly identifies an image as tampered even though it is not.
 
-5. **Maintaining security:** It is important to ensure that the game is secure and that user data is protected. This may involve implementing measures such as input validation and sanitization, as well as properly handling sensitive information such as passwords and API Keys.
+4. **_False negatives:_** The app may generate false negatives, where it fails to identify that an image has been tampered.
+
+5. **_Security:_** The app must be secure, as it will be handling sensitive personal information such as PAN numbers.
+
+6. **_Scalability:_** The app must be able to handle a large number of image uploads and processing at the same time.
+
+7. **_Maintenance:_** The app must be regularly updated to ensure that it is able to detect new forms of tampering and to fix any bugs or issues that may arise.
+
+8. **_Privacy:_** The app must comply with all relevant privacy laws and regulations.
+
+9. **_Limited Data:_** The model will be trained on limited data and therefore the accuracy is limited.
+
+10. **_Limited model performance:_** The model has a limited performance and will not be able to detect all the tampering.
+
+11. **_Limited resources:_** The app may be limited by the resources available, such as computing power and storage.
+
+Overall, it's important to keep in mind that developing a Pancard Image Tampering Detection Flask App is a complex task that requires a variety of skills and knowledge in image processing, machine learning, and web development.
 
 ## Conclusion
 
