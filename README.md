@@ -30,6 +30,16 @@ Step to run application:
 
 A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a PAN card image has been tampered with. PAN (Permanent Account Number) cards are government-issued identification cards that are used for tax-related purposes in India. Tampering with a PAN card image could be used to commit fraud or other illegal activities, so it's important to be able to detect any tampering that may have occurred. A Flask App can be used to create a user-friendly interface for users to upload and check their PAN card images, making the process of detecting tampering more convenient and accessible.
 
+## Modules
+
+1. **_Flask_**(1.1.1)
+2. **_imutils_**(0.5.3)
+3. **_Keras_**(2.4.0)
+4. **_opencv-python_**(4.4.0.46)
+5. **_Pillow_**(8.0.1)
+6. **_tensorflow_**(2.3.1)
+7. **_scikit-image_**(0.17.2)
+
 ## Algorithm
 
 1. The game generates a grid of letters and displays it to the player.
@@ -39,8 +49,6 @@ A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a 
 5. If the word is not valid, the game informs the player and allows them to try again.
 
 This is just one possible approach to building a Wordle-like game. There are many other ways to design and implement such a game, and the specific algorithms and techniques used will depend on the desired features and functionality of the game.
-
-##
 
 ## Challenges and Limitations
 
@@ -72,7 +80,7 @@ Overall, it's important to keep in mind that developing a Pancard Image Tamperin
 
 ## Conclusion
 
-In conclusion, a Pancard Image Tampering Detection Flask App can be a useful tool for detecting tampered PAN card images and preventing fraud and other illegal activities. However, there are several challenges and limitations that must be considered when developing such an app, including image quality, tamper detection accuracy, false positives and negatives, security, scalability, maintenance, and compliance with privacy laws and regulations. Additionally, the app may be limited by the resources available, such as computing power and storage, and the model may have limited performance and accuracy due to limited data. Despite the challenges and limitations, a Pancard Image Tampering Detection Flask App can help to improve the security and integrity of PAN card images and the government's identification process.
+In conclusion, a **_PAN card Image Tampering Detection Flask App_** can be a useful tool for detecting tampered PAN card images and preventing fraud and other illegal activities. However, there are several challenges and limitations that must be considered when developing such an app, including image quality, tamper detection accuracy, false positives and negatives, security, scalability, maintenance, and compliance with privacy laws and regulations. Additionally, the app may be limited by the resources available, such as computing power and storage, and the model may have limited performance and accuracy due to limited data. Despite the challenges and limitations, a Pancard Image Tampering Detection Flask App can help to improve the security and integrity of PAN card images and the government's identification process.
 
 ### MIT Licence
 
