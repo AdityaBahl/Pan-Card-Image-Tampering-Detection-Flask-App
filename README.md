@@ -13,9 +13,9 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
 4. **Python**
 5. **Flask**
 
-![Screenshot (107)](https://user-images.githubusercontent.com/90335449/213002142-555d5e8c-2f7d-497b-8646-9ce2f2de200a.png)
+![image1](https://user-images.githubusercontent.com/90335449/213002624-8a2c29a2-3a85-4dd6-96ba-e5438c4885e0.png)
 
-![Screenshot (108)](https://user-images.githubusercontent.com/90335449/213002188-eafabf6e-3a91-471d-8883-5f75435ccc36.png)
+![image2](https://user-images.githubusercontent.com/90335449/213002650-f02177f9-7c09-43a3-a840-b4f0e83386f1.png)
 
 ## Getting Started
 
