@@ -54,6 +54,10 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
 
 A **_PAN card Image Tampering Detection Flask App_** can be used to detect if a PAN card image has been tampered with. PAN (**Permanent Account Number**) cards are government-issued identification cards that are used for tax-related purposes in India. Tampering with a PAN card image could be used to commit fraud or other illegal activities, so it's important to be able to detect any tampering that may have occurred. A Flask App can be used to create a user-friendly interface for users to upload and check their PAN card images, making the process of detecting tampering more convenient and accessible.
 
+## What is computer vision?
+
+**_Computer vision_** is a field of study that focuses on enabling computers to interpret and understand visual information from the world, such as images and videos. It combines techniques from computer science, engineering, and mathematics to analyze, process, and understand visual data. Computer vision is used in a wide range of applications, such as **_object recognition_**, **_image analysis_**, **_self-driving cars_**, **_surveillance_**, and more. It involves the use of various techniques such as **_image processing_**, **_pattern recognition_**, **_machine learning_**, and **_deep learning_** to make sense of visual data and extract meaningful information from it.
+
 ## Modules
 
 1. **_Flask_**(1.1.1)
