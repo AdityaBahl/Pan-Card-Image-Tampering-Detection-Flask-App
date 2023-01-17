@@ -2,7 +2,7 @@
 
 ## Colab File
 
-For reference or a better understanding step by step(but purely Python Code)
+For reference or for a better understanding in a step by step manner(but purely Python Code)
 https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sharing
 
 ## Technologies Used
@@ -15,20 +15,30 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
 
 ## Getting Started
 
-Step to run application:
+**_Step to run application:_**
 
-1. Create the copy of the project.
+1. **Create the copy** of the project.
 2. Open command prompt and change your current path
    to folder where you can find 'app.py' file.
-3. Create environment by command given below-
+3. **Create environment** by command given below-
+
+```
    conda create -name <environment name>
-4. Activate environment by command as follows-
+```
+
+4. **Activate environment** by command as follows-
+   ```
    conda activate <environment name>
-5. Use command below to install required dependencies-
+   ```
+5. Use command below to **install required dependencies**-
+   ```
    python -m pip install -r requirements.txt
-6. Run application by command;
+   ```
+6. **Run application** by command;
+   ```
    python app.py
-   You will get url copy it and paste in browser.
+   ```
+   You will get **url** copy it and **paste** in browser.
 7. You have sample_data folder where you can get images to test.
 
 ## Why PAN card Image Tampering Detection Flask App?
