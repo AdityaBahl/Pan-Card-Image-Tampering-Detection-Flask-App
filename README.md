@@ -38,7 +38,7 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
    python app.py
    ```
    You will get **url** copy it and **paste** in browser.
-7. You have sample_data folder where you can get images to test.
+7. You have **'sample_data'** folder where you can get **images to test**.
 
 ## Why PAN card Image Tampering Detection Flask App?
 
