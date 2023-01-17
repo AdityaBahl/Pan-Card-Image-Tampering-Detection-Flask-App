@@ -12,21 +12,21 @@
 
 Step to run application:
 
-1. Step 1: Create the copy of the project.
-2. Step 2: Open command prompt and change your current path
+1. Create the copy of the project.
+2. Open command prompt and change your current path
    to folder where you can find 'app.py' file.
-3. Step 3: Create environment by command given below-
+3. Create environment by command given below-
    conda create -name <environment name>
-4. Step 4: Activate environment by command as follows-
+4. Activate environment by command as follows-
    conda activate <environment name>
-5. Step 5: Use command below to install required dependencies-
+5. Use command below to install required dependencies-
    python -m pip install -r requirements.txt
-6. Step 6: Run application by command;
+6. Run application by command;
    python app.py
    You will get url copy it and paste in browser.
-7. Step 7: You have sample_data folder where you can get images to test.
+7. You have sample_data folder where you can get images to test.
 
-## Why Wordle?
+## Why Pancard Image Tampering Detection Flask App?
 
 **Wordle** is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
 
