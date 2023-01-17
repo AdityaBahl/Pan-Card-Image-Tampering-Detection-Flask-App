@@ -13,6 +13,10 @@ https://colab.research.google.com/drive/1OGq8HlQuYADtiVQ7f5Pg4dz6FAiy6ubA?usp=sh
 4. **Python**
 5. **Flask**
 
+![Screenshot (107)](https://user-images.githubusercontent.com/90335449/213002142-555d5e8c-2f7d-497b-8646-9ce2f2de200a.png)
+
+![Screenshot (108)](https://user-images.githubusercontent.com/90335449/213002188-eafabf6e-3a91-471d-8883-5f75435ccc36.png)
+
 ## Getting Started
 
 **_Step to run application:_**
